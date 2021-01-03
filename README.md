@@ -1,5 +1,5 @@
 # Tidytuesday 📊
-Tidy Tuesday is a ***"weekly data project aimed at the R ecosystem"***, and i save and share my contributions in this repo. Yo can find more information 
+Tidy Tuesday is a ***"weekly data project aimed at the R ecosystem"***, and i save and share my contributions in this repo. You can find more information 
 of the project [here](https://github.com/rfordatascience/tidytuesday/).
 
 ## **Gallery**
